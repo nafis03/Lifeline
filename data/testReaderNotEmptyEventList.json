@@ -1,0 +1,26 @@
+{
+  "listOfEvents": [
+    {
+      "name": "Cultus Lake",
+      "description": "trip to cultus lake",
+      "date": {
+        "day": "31",
+        "month": "7",
+        "year": "2022"
+      },
+      "time": "700",
+      "status": "false"
+    },
+    {
+      "name": "Winnipeg Trip",
+      "description": "trip to winnipeg",
+      "date": {
+        "day": "3",
+        "month": "8",
+        "year": "2022"
+      },
+      "time": "630",
+      "status": "false"
+    }
+  ]
+}

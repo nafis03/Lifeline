@@ -1,0 +1,24 @@
+{"listOfAssignments": [
+    {
+        "name": "Mock Interview Prep",
+        "description": "Prepping For Mock Interview",
+        "deadline": {
+            "month": "2",
+            "year": "2022",
+            "day": "1"
+        },
+        "type": "12",
+        "status": "incomplete"
+    },
+    {
+        "name": "Mock Interview Prep",
+        "description": "Prepping For Mock Interview",
+        "deadline": {
+            "month": "2",
+            "year": "2022",
+            "day": "1"
+        },
+        "type": "12",
+        "status": "incomplete"
+    }
+]}

@@ -1,0 +1,24 @@
+{"listOfAssignments": [
+    {
+        "name": "Project Phase 3",
+        "description": "project phase 3 deliverable",
+        "deadline": {
+            "month": "8",
+            "year": "2022",
+            "day": "2"
+        },
+        "type": "CPSC 210",
+        "status": "incomplete"
+    },
+    {
+        "name": "Lab 8",
+        "description": "lab 8 assignment",
+        "deadline": {
+            "month": "8",
+            "year": "2022",
+            "day": "4"
+        },
+        "type": "CPSC 210",
+        "status": "incomplete"
+    }
+]}
